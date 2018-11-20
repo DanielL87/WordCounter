@@ -1,0 +1,7 @@
+C:\Users\Kingslayer\Desktop\WordCount.Solution\WordCount\bin\Debug\netcoreapp1.1\WordCount.deps.json
+C:\Users\Kingslayer\Desktop\WordCount.Solution\WordCount\bin\Debug\netcoreapp1.1\WordCount.dll
+C:\Users\Kingslayer\Desktop\WordCount.Solution\WordCount\bin\Debug\netcoreapp1.1\WordCount.pdb
+C:\Users\Kingslayer\Desktop\WordCount.Solution\WordCount\obj\Debug\netcoreapp1.1\WordCount.csproj.CoreCompileInputs.cache
+C:\Users\Kingslayer\Desktop\WordCount.Solution\WordCount\obj\Debug\netcoreapp1.1\WordCount.AssemblyInfo.cs
+C:\Users\Kingslayer\Desktop\WordCount.Solution\WordCount\obj\Debug\netcoreapp1.1\WordCount.dll
+C:\Users\Kingslayer\Desktop\WordCount.Solution\WordCount\obj\Debug\netcoreapp1.1\WordCount.pdb
